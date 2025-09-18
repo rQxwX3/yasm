@@ -7,7 +7,7 @@ Dockerized Twitter-like platform developed as a part of Harvard's CS50w course.
 Make sure [Docker](https://docs.docker.com/get-docker/) is installed, and the Docker Daemon is running on your machine prior to hosting the app.
 
 
-## Installation
+## Hosting
 
 ### Clone the repository
 
